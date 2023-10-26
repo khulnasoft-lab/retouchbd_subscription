@@ -36,8 +36,8 @@ dependencies:
     specifier: ^2.0.2
     version: 2.0.2
   stripe:
-    specifier: ^12.6.0
-    version: 12.7.0
+    specifier: ^14.0.0
+    version: 14.1.0
   tailwindcss:
     specifier: ^3.3.2
     version: 3.3.2
@@ -3090,8 +3090,8 @@ packages:
     engines: {node: '>=8'}
     dev: true
 
-  /stripe@12.7.0:
-    resolution: {integrity: sha512-4yY9gNFznBI6fZtR0B4y2a+o2EJe+s7p4DiHECKphwa36zYIczpWzO1g4dF0PF3lhTRw5FWTaHGBjwaD5FEiDQ==}
+  /stripe@14.1.0:
+    resolution: {integrity: sha512-hpI8OT7jbaVTGOm9bqeCbdVGwM/55Hetn+WpPGFSq7FmlnqLPB7CSZy2eNYU6ko+4tdur6ZMrDKS6wh1CCx8bw==}
     engines: {node: '>=12.*'}
     dependencies:
       '@types/node': 20.2.5
